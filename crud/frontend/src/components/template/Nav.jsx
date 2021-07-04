@@ -13,7 +13,7 @@ const fn = props =>
             <a href to="#/users">
                 <i className="fa fa-users"></i> Usuários
             </a>
-            
+
         </nav>
     </aside>
 
