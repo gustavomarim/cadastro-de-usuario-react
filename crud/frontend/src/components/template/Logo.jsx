@@ -1,12 +1,13 @@
 import './Logo.css'
 import logo from '../../assets/imgs/logo.png'
 import React from 'react'
+import { Link } from 'react-router-dom'
 
 const fn = props =>
     <aside className="logo">
-        <a href="/" className="logo">
+        <Link to="/" className="logo">
             <img src={logo} alt="logo" />
-        </a>
+        </Link>
     </aside>
 
 export default fn
