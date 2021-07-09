@@ -1,19 +1,9 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "Arthur Oliveira",
-      "email": "aoliveira@cod3r.com.br"
-    },
-    {
-      "id": 2,
-      "name": "Maria Julia da Silva",
-      "email": "mjds@empresa.com"
-    },
-    {
-      "name": "Ana Silva",
-      "email": "Ana.Silva@gmail.com",
-      "id": 6
+      "name": "Gustavo Dantas ",
+      "email": "gustavo.dantas.marim@outlook.com",
+      "id": 1
     }
   ]
 }
