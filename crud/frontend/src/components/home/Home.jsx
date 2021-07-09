@@ -1,7 +1,6 @@
 import React from 'react'
 import Main from '../template/Main'
 
-
 const fn = props =>
     <Main icon="home" title="Inicio"
         subtitle="Segundo Projeto do capítulo de React.">
