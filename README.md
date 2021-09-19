@@ -5,8 +5,9 @@
 </div>
 
 ---
-
+<div align="center">
 Projeto criado a partir das aulas do curso de Web Moderno da plataforma Cod3r Cursos.
+</div>
 
 
 ---
