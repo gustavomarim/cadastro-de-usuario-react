@@ -26,7 +26,7 @@ Projeto criado a partir das aulas do curso de Web Moderno da plataforma Cod3r Cu
 ---
 
 
-<h4 id="status">🚧 STATUS - Alurakut 🚀 Finalizado!!... 🚀 🚧</h4>
+<h4 id="status">🚧 STATUS - Cadastro de Usuário 🚀 Finalizado!!... 🚀 🚧</h4>
 
 
 ---
