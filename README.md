@@ -7,6 +7,8 @@
 ---
 <div align="center">
 Projeto criado a partir das aulas do curso de Web Moderno da plataforma Cod3r Cursos.
+
+O intuito deste software é fazer um C.R.U.D (Create, Read, Update and Delete) de um cadastro de nome e e-mail, gerando automáticamente um ID exclusivo para cada usuário e armazenando estes dados em um arquivo .JSON (JavaScript Object Notation), simulando um Banco de Dados
 </div>
 
 
@@ -47,7 +49,7 @@ Projeto criado a partir das aulas do curso de Web Moderno da plataforma Cod3r Cu
 
 #### # Back-end
 
-- [x] Banco de dados fake em arquivo JSON
+- [x] Banco de dados fictício em arquivo .JSON
 <br>
 
 
